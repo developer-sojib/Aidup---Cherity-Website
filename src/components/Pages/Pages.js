@@ -1,7 +1,8 @@
 import React from "react";
+import ServiceDetails from "../Home/ServiceDetails/ServiceDetails.js";
 
 const Pages = () => {
-  return <div>pages</div>;
+  return <ServiceDetails />;
 };
 
 export default Pages;
